@@ -1,0 +1,88 @@
+{
+  "seller": "Mate Metreveli",
+  "contact": "matemetreveli3@gmail.com",
+  "currency": "USD",
+  "checkout": "No automated checkout. Scope and payment method are agreed by email before paid work.",
+  "offers": [
+    {
+      "market": "Commerce",
+      "title": "Product catalog review",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/commerce/",
+      "price": 49,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/commerce/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Podcasts",
+      "title": "Caption review",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/podcast/",
+      "price": 39,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/podcast/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Restaurants",
+      "title": "Menu formatting",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/restaurants/",
+      "price": 59,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/restaurants/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Education",
+      "title": "Custom arithmetic worksheets",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/education/",
+      "price": 29,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/education/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Vacation rentals",
+      "title": "Guest guide formatting",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/rentals/",
+      "price": 59,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/rentals/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Games",
+      "title": "Custom SVG assets",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/game-assets/",
+      "price": 39,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/game-assets/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Software documentation",
+      "title": "Documentation cleanup",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/docs/",
+      "price": 49,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/docs/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Research and mapping",
+      "title": "GeoJSON file review",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/research-data/",
+      "price": 59,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/research-data/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Events",
+      "title": "Event timetable",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/events/",
+      "price": 49,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/events/",
+      "sample_is_free": true
+    },
+    {
+      "market": "Automation testing",
+      "title": "Function response review",
+      "sample_url": "https://mate-working-samples.nap100.chatgpt.site/automation/",
+      "price": 49,
+      "scope_url": "https://mate-working-samples.nap100.chatgpt.site/automation/",
+      "sample_is_free": true
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mate-working-samples.nap100.chatgpt.site/sitemap.xml

@@ -1,0 +1,20 @@
+# Mate Metreveli — working samples
+
+Ten free original browser tools with fixed-scope paid reviews and customization. Examples are synthetic. No live customer results or earnings claims.
+
+Contact: matemetreveli3@gmail.com. Scope and payment method are agreed before paid work. No automatic checkout or paid agent API is provided.
+
+## Samples
+- [Product catalog review](https://mate-working-samples.nap100.chatgpt.site/commerce/): Check product CSV files for repeated identifiers, missing fields and inconsistent values. Free sample; paid scope US$49.
+- [Caption review](https://mate-working-samples.nap100.chatgpt.site/podcast/): Check SRT timings and caption formatting before delivery. Free sample; paid scope US$39.
+- [Menu formatting](https://mate-working-samples.nap100.chatgpt.site/restaurants/): Build a printable menu from your existing descriptions and prices. Free sample; paid scope US$59.
+- [Custom arithmetic worksheets](https://mate-working-samples.nap100.chatgpt.site/education/): Generate printable exercises and an answer sheet. Free sample; paid scope US$29.
+- [Guest guide formatting](https://mate-working-samples.nap100.chatgpt.site/rentals/): Turn your property instructions into a printable guide. Free sample; paid scope US$59.
+- [Custom SVG assets](https://mate-working-samples.nap100.chatgpt.site/game-assets/): Inspect an original geometric asset set and request a custom set. Free sample; paid scope US$39.
+- [Documentation cleanup](https://mate-working-samples.nap100.chatgpt.site/docs/): Review Markdown headings and collect links into a checklist. Free sample; paid scope US$49.
+- [GeoJSON file review](https://mate-working-samples.nap100.chatgpt.site/research-data/): Check a feature file for selected structural and coordinate issues. Free sample; paid scope US$59.
+- [Event timetable](https://mate-working-samples.nap100.chatgpt.site/events/): Build and export a run-of-show from session timings. Free sample; paid scope US$49.
+- [Function response review](https://mate-working-samples.nap100.chatgpt.site/automation/): Check a captured synchronous Vapi Function response against selected contract rules. Free sample; paid scope US$49.
+
+## Machine-readable offers
+- [Offer directory](https://mate-working-samples.nap100.chatgpt.site/offers.json): USD pricing, scope links and contact.
